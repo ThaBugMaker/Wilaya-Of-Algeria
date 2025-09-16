@@ -74,4 +74,4 @@ fetch('./Commune_Of_Algeria.json')
 
 ---
 
-<sub>Original work by Abderrahmene Bouidia & Abdelaziz Belkadi</sub>
+<sub>Original work by @AbderrahmeneDZ Bouidia & Abdelaziz Belkadi</sub>
